@@ -1,4 +1,4 @@
-const postList = document.getElementById('posts');
+const postss = document.getElementById('posts');
 
 const fetchPosts = async (url) => {
     try {
@@ -20,8 +20,6 @@ const displayPosts = async () => {
 
     const posts = await fetchPosts(url);
 
-    postList.innerHTML = '';
-
     posts.forEach(post => {
         const postElement = document.createElement('div');
         postElement.classList.add('post-card');
@@ -35,7 +33,7 @@ const displayPosts = async () => {
         postElement.appendChild(title);
         postElement.appendChild(description);
 
-        postList.appendChild(postElement);
+        postss.appendChild(postElement);
 
     });
 }
