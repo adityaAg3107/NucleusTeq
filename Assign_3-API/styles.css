@@ -18,11 +18,8 @@ body {
     flex-direction: column;
     padding: 0.5rem;
     margin: 1rem;
-    border-radius: 0rem;
     background-color: rgba(255, 255, 255, 0.8);
-
     box-shadow: 0.5px 2px 5px 0.5px rgb(34, 29, 31);
     max-width: 15rem;
-
 }
   
