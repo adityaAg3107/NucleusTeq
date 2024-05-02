@@ -15,7 +15,7 @@ const fetchPosts = async (url) => {
     }
 }
 
-const displayPosts = async () => {
+const display = async () => {
     const url = `https://jsonplaceholder.typicode.com/posts`;
 
     const posts = await fetchPosts(url);
@@ -38,4 +38,4 @@ const displayPosts = async () => {
     });
 }
 
-displayPosts();
+display();
