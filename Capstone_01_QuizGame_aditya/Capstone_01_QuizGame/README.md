@@ -5,17 +5,25 @@ Quizzy is quiz game where users can answer questions based on various categories
 #### Fronted - HTML, CSS, JavaScript
 #### Backend - Java 17, Springboot 6
 #### Database - MySql 5.7.8
+
 ### Diagrams:
 #### Entity Relationship Diagram:
  
 ![ER](https://github.com/adityaAg3107/NucleusTeq/assets/120568867/42b93833-cedd-44ad-a4ea-c4b237aa16ab)
- 
- 
+
+
 #### Use Case Diagram:         
  
 ![UseCaseDiagram](https://github.com/adityaAg3107/NucleusTeq/assets/120568867/10b5a6d7-d3a7-49cf-99d3-ccb13ab66aa1)
 
+### Project Screenshots:
+#### Home Page:
+![Screenshot (1025)](https://github.com/adityaAg3107/NucleusTeq/assets/120568867/6d68b99b-16bc-4a20-9ccb-042f47172d27)
+#### Question Page:
+![Screenshot (1026)](https://github.com/adityaAg3107/NucleusTeq/assets/120568867/1a98d7bd-92d6-4f1e-b764-78fe1d641a95)
+#### Result Page:
 
+![Screenshot (1027)](https://github.com/adityaAg3107/NucleusTeq/assets/120568867/b9f7d30d-514d-4419-9302-e5de9bd5ad15)
 ### Frontend Installation:
 
 Step 1: Install live server extension in Vs Code.
